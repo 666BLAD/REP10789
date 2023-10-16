@@ -17,7 +17,7 @@ internal class Program
         Console.WriteLine("Insira quarta nota: ");
         nota4 = Convert.ToDouble(Console.ReadLine());
 
-        media = (nota1 + nota2 + nota3 + nota4) / 4;
+        media = ((nota1*0.5) + (nota2*0.1) + (nota3*0.1) + (nota4*0.3)) / 4;
 
         Console.WriteLine("As notas são: ");
         Console.WriteLine(nota1);

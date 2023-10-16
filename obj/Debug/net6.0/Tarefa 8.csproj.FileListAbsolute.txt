@@ -12,3 +12,17 @@ D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvim
 D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\Tarefa 8\obj\Debug\net6.0\Tarefa 8.pdb
 D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\Tarefa 8\obj\Debug\net6.0\Tarefa 8.genruntimeconfig.cache
 D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\Tarefa 8\obj\Debug\net6.0\ref\Tarefa 8.dll
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\bin\Debug\net6.0\Tarefa 8.exe
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\bin\Debug\net6.0\Tarefa 8.deps.json
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\bin\Debug\net6.0\Tarefa 8.runtimeconfig.json
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\bin\Debug\net6.0\Tarefa 8.dll
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\bin\Debug\net6.0\Tarefa 8.pdb
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.AssemblyInfoInputs.cache
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.AssemblyInfo.cs
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.csproj.CoreCompileInputs.cache
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.dll
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\refint\Tarefa 8.dll
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.pdb
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\Tarefa 8.genruntimeconfig.cache
+D:\briid\Documents\Formacao_Programacao_nNet\10789 - Metodologias de desenvolvimento de software\GIT e GITHUB\REP10789\obj\Debug\net6.0\ref\Tarefa 8.dll
